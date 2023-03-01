@@ -1,0 +1,24 @@
+body {
+    font-family: 'Crimson Text', serif;
+    background-color: black;
+    color: red;
+}
+
+nav {
+    font-family: 'Creepster', cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10vw;
+    user-select: none;
+}
+
+input {
+    font-family: 'Crimson Text', serif;
+    text-align: center;
+}
+
+#output {
+    color: white;
+    text-align: center;
+}
